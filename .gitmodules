@@ -1,0 +1,3 @@
+[submodule "New-project"]
+	path = New-project
+	url = https://github.com/Mdfuru/New-project
